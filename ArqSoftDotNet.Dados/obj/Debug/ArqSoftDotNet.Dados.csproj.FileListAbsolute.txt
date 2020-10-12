@@ -1,0 +1,12 @@
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\bin\Debug\ArqSoftDotNet.Dados.dll.config
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\bin\Debug\ArqSoftDotNet.Dados.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\bin\Debug\ArqSoftDotNet.Dados.pdb
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\bin\Debug\EntityFramework.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\bin\Debug\EntityFramework.xml
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\obj\Debug\ArqSoftDotNet.Dados.csprojAssemblyReference.cache
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\obj\Debug\ArqSoftDotNet.Dados.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\obj\Debug\ArqSoftDotNet.Dados.csproj.CopyComplete
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\obj\Debug\ArqSoftDotNet.Dados.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Dados\obj\Debug\ArqSoftDotNet.Dados.pdb

@@ -1,0 +1,17 @@
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.Negocio.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.Negocio.pdb
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.Repositorio.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.TO.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.Dados.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.Repositorio.pdb
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.Repositorio.dll.config
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.TO.pdb
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.Dados.pdb
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\ArqSoftDotNet.Dados.dll.config
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\obj\Debug\ArqSoftDotNet.Negocio.csprojAssemblyReference.cache
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\obj\Debug\ArqSoftDotNet.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\obj\Debug\ArqSoftDotNet.Negocio.csproj.CopyComplete
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\obj\Debug\ArqSoftDotNet.Negocio.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Negocio\obj\Debug\ArqSoftDotNet.Negocio.pdb

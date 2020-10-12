@@ -1,0 +1,5 @@
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.TO\bin\Debug\ArqSoftDotNet.TO.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.TO\bin\Debug\ArqSoftDotNet.TO.pdb
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.TO\obj\Debug\ArqSoftDotNet.TO.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.TO\obj\Debug\ArqSoftDotNet.TO.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.TO\obj\Debug\ArqSoftDotNet.TO.pdb

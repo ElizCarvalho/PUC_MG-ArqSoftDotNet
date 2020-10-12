@@ -1,0 +1,17 @@
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\ArqSoftDotNet.Repositorio.dll.config
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\ArqSoftDotNet.Repositorio.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\ArqSoftDotNet.Repositorio.pdb
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\ArqSoftDotNet.Dados.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\ArqSoftDotNet.TO.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\ArqSoftDotNet.Dados.pdb
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\ArqSoftDotNet.Dados.dll.config
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\ArqSoftDotNet.TO.pdb
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\obj\Debug\ArqSoftDotNet.Repositorio.csprojAssemblyReference.cache
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\obj\Debug\ArqSoftDotNet.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\obj\Debug\ArqSoftDotNet.Repositorio.csproj.CopyComplete
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\obj\Debug\ArqSoftDotNet.Repositorio.dll
+C:\Users\elizabeth.carvalho\source\repos\ArqSoftDotNet\ArqSoftDotNet.Repositorio\obj\Debug\ArqSoftDotNet.Repositorio.pdb
